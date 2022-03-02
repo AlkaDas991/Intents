@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="first_activity">First Activity</string>
+    <string name="name">Name</string>
+    <string name="editname">EditName</string>
+</resources>
